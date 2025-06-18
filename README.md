@@ -25,9 +25,12 @@ I am involved in Women in Computing (WIC) at UCSD and have served my community t
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
 ## 💻 Projects
-
-
+### [Glu-Coaster 🎢](https://echungg1.github.io/Glu-coaster/)
+- 🎥 Watch the demo [video](https://www.youtube.com/watch?v=XHZikXvLbKc&feature=youtu.be)
+- 🗒️ See the [repository](https://github.com/echungg1/Glu-coaster)
+- Using JavaScript (d3.js) to visualize [data](https://physionet.org/content/cgmacros/1.0.0/) of glucose levels, we built an interactive article to showcase the importance of a balanced diet for the prevention of chronic illnesses. Take a ride on the Glu-Coaster to learn more!
 
 ## 📫 How to reach me:
+- mkishore [at] ucsd [dot] edu
+- [LinkedIn](https://www.linkedin.com/in/mythri-kishore/)
