@@ -26,10 +26,15 @@ I am involved in Women in Computing (WIC) at UCSD and have served my community t
 
 
 ## 💻 Projects
-### [Glu-Coaster 🎢](https://echungg1.github.io/Glu-coaster/)
+### [glucose-visualization-article 🎢](https://echungg1.github.io/Glu-coaster/)
 - 🎥 Watch the demo [video](https://www.youtube.com/watch?v=XHZikXvLbKc&feature=youtu.be)
 - 🗒️ See the [repository](https://github.com/echungg1/Glu-coaster)
-- Using JavaScript (d3.js) to visualize [data](https://physionet.org/content/cgmacros/1.0.0/) of glucose levels, we built an interactive article to showcase the importance of a balanced diet for the prevention of chronic illnesses. Take a ride on the Glu-Coaster to learn more!
+
+### [personal-portfolio 📁](https://mkishore3.github.io/portfolio/)
+- 🗒️ See the [repository](https://github.com/mkishore3/portfolio)
+
+### [sea-level-anomaly-detection-tensorflow 🌊](https://github.com/mkishore3/nsf_ml_challenge)
+- It was completed as part of a hackathon run by UCSD SMASH (for the duration of 2 days) for the NSF HDR ML Challenge Hackathon
 
 ## 📫 How to reach me:
 - mkishore [at] ucsd [dot] edu
