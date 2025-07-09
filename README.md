@@ -1,5 +1,4 @@
 ## Hi there, I'm Mythri 👋
-![Visitor Count](https://profile-counter.glitch.me/mkishore3/count.svg)
 
 ## 👩‍💻 About me 
 I am a Junior majoring in **Data Science at the University of California, San Diego (UCSD)**. I have participated in several hackathons which have furthered my interest in data analysis and machine learning. In fact, in April 2025, my team and I won first place for our [AI Dance Battle web app](https://devpost.com/software/pose-jam). 
