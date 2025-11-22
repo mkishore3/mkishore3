@@ -34,6 +34,9 @@ I am involved in Women in Computing (WIC) at UCSD and have served my community t
 ### [personal-portfolio 📁](https://mkishore3.github.io/portfolio/)
 - 🗒️ See the [repository](https://github.com/mkishore3/portfolio)
 
+### [caricon-personality-career-matching 📁](https://github.com/HassanDataSci/caricon-personality-career-matching)
+- Completed on a team of 5 for CariCon as a part of an AI/ML fellowship with Break Through Tech.
+
 ### [sea-level-anomaly-detection-tensorflow 🌊](https://github.com/mkishore3/nsf_ml_challenge)
 - It was completed as part of a hackathon run by UCSD SMASH (for the duration of 2 days) for the NSF HDR ML Challenge Hackathon
 
