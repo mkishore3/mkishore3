@@ -31,8 +31,8 @@ I am involved in Women in Computing (WIC) at UCSD and have served my community t
 - 🎥 Watch the demo [video](https://www.youtube.com/watch?v=XHZikXvLbKc&feature=youtu.be)
 - 🗒️ See the [repository](https://github.com/echungg1/Glu-coaster)
 
-### [personal-portfolio 📁](https://mkishore3.github.io/portfolio/)
-- 🗒️ See the [repository](https://github.com/mkishore3/portfolio)
+### [personal-portfolio 📁](https://mkishore3.github.io/personal_portfolio/)
+- 🗒️ See the [repository](https://github.com/mkishore3/personal_portfolio)
 
 ### [caricon-personality-career-matching 📁](https://github.com/HassanDataSci/caricon-personality-career-matching)
 - Completed on a team of 5 for CariCon as a part of an AI/ML fellowship with Break Through Tech.
